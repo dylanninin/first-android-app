@@ -13,11 +13,11 @@ jobs:
         submodules: recursive
 
     # see https://medium.com/google-developer-experts/github-actions-for-android-developers-6b54c8a32f55
-    - name: Setup JDK
+    - name: Set up JDK
       uses: actions/setup-java@v1.4.3
       with:
         java-version: 11
 
-    - name: run gradle
+    - name: Build apk
       run: |
         ./gradlew assemble
