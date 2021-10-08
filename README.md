@@ -18,9 +18,9 @@ features
 #### Screenshots
 
 <p>
-  <img src="./screenshots/1.png" width="200px">
-  <img src="./screenshots/2.png" width="200px">
-  <img src="./screenshots/3.png" width="400px">
+  <img src="./screenshots/1.png" width="200px" height="400px">
+  <img src="./screenshots/2.png" width="200px" height="400px">
+  <img src="./screenshots/3.png" width="400px" height="400px">
 </p>
 
 #### Development
