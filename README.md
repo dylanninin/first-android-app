@@ -1,5 +1,7 @@
 KotlinDemo
 
+![Main](https://github.com/dylanninin/KotlinDemo/actions/workflows/main.yml/badge.svg)
+
 #### Development
 
 build from command line
