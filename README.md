@@ -14,6 +14,11 @@ features
     - counted number updated by clicking the "count" button
     - by clicking the "random" button, next page will show a random integer between 0 and counted number
     - this counted number was passed through navigated pages via "androidx.navigation.safeargs"
+- http: with retrofit2, by clicking count button, send request to [httpbin.org](https://httpbin.org/)
+    - [Android Networking With Kotlin Tutorial: Getting Started](https://www.raywenderlich.com/6994782-android-networking-with-kotlin-tutorial-getting-started)
+    - [Retrofit](https://square.github.io/retrofit/)
+    - [httpbin.org](https://httpbin.org/)
+
 
 #### Screenshots
 
@@ -74,3 +79,6 @@ issue2:
 - [Build your app from the command line](https://developer.android.com/studio/build/building-cmdline)
 - [Build Your First Android App in Kotlin](https://developer.android.com/codelabs/build-your-first-android-app-kotlin)
 - [GitHub Actions for Android developers](https://medium.com/google-developer-experts/github-actions-for-android-developers-6b54c8a32f55)
+- [Android Networking With Kotlin Tutorial: Getting Started](https://www.raywenderlich.com/6994782-android-networking-with-kotlin-tutorial-getting-started)
+- [Retrofit](https://square.github.io/retrofit/)
+- [httpbin.org](https://httpbin.org/)
